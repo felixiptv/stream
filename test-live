@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="e89a68553c" tvg-name="Islam Makhachev - Arman TsarukyanAhalkalakets (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/fighting.png?raw=true" group-title="Events ➔ MMA",10:00 PM - Islam Makhachev - Arman TsarukyanAhalkalakets (UK) - 10:00 PM - EST - (01/18/2025)
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
+#EXTINF:-1 tvg-id="" tvg-name="UFC 312" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/sfx331046.jpg" group-title="Live Stream" ,UFC 312 Du Plessis vs Strickland 2
+#EXTVLCOPT:http-referer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 17_6_0 like Mac OS X AppleWebKit/605.2.10 KHTML, like Gecko Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8
