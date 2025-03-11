@@ -20,7 +20,7 @@ https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 #EXTINF:-1,cartoonito
 https://ucdn.starhubgo.com/bpk-tv/BoomerangHD/output/manifest.mpd
 
-#EXTINF:-1 pbb
+#EXTINF:-1,pbb
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
