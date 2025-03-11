@@ -19,3 +19,10 @@ https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f3ebd4b085804891988897c19ec04d9f:7fb1cd86d4fcf86942e0b0cab62c82db
 #EXTINF:-1,cartoonito
 https://ucdn.starhubgo.com/bpk-tv/BoomerangHD/output/manifest.mpd
+
+#EXTINF:-1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:61d46bed17f2409592040bfb97ba5767
+https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd|Referer=https://iwanttfc.com
