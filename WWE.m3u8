@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/wwe_wrestlemania_41_logo_2_by_ajkelley_di89qz3-pre.png" group-title="WWE PLE",WrestleMania 41 Day 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/wwe_wrestlemania_41_logo_2_by_ajkelley_di89qz3-pre.png" group-title="WWE PLE",WrestleMania 41 Day 2
 #EXTVLCOPT:http-origin=https://ppv.wtf/
 #EXTVLCOPT:http-referrer=https://ppv.wtf//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
