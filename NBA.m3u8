@@ -17,3 +17,21 @@ https://live.webcastserver.online/hdstream/embed/152.m3u8
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/163.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NBA",Indiana Pacer vs Milwaukee Bucks (Game 2) Stream 2
+#EXTVLCOPT:http-origin=https://ppv.wtf/
+#EXTVLCOPT:http-referrer=https://ppv.wtf//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmIzODJhNTBmNGZmLWRhOWEtMzYxNC0zYjBkLWI3NDUyODkz/master.m3u8?md5=sfovC45VIQ8-58v9raPc-A&expires=1745414131
+
+#EXTINF:-1 tvg-logo="" group-title="NBA", Oklahoma City Thunders vs Memphis Grizzlies (Game 2) Stream 2
+#EXTVLCOPT:http-origin=https://ppv.wtf/
+#EXTVLCOPT:http-referrer=https://ppv.wtf//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=AMaAs4NGJHbst8J_tuC7pg&expires=1745414212
+
+#EXTINF:-1 tvg-logo="" group-title="NBA", Los Angeles Lakers vs Minnesota Timberwolves (Game 2) Stream 2
+#EXTVLCOPT:http-origin=https://ppv.wtf/
+#EXTVLCOPT:http-referrer=https://ppv.wtf//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjc3NWYxZjE5NTMxLWMzNGEtZjAyNC04ZjQ2LWFiYmRhMzc2/master.m3u8?md5=yLOPEz0ZcZvLt5ZtsK8m6g&expires=1745414284
