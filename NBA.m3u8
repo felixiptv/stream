@@ -1,25 +1,13 @@
-      #EXTM3U
+#EXTM3U
 
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Cavaliers vs Pacers (Game 1 - Semifinals) 
-      #EXTVLCOPT:http-origin=https://nbawebcast.app/
-      #EXTVLCOPT:http-referrer=https://nbawebcast.app//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://live.webcastserver.online/hdstream/embed/167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",Rockets vs Warriors (Game 7) 
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/160.m3u8
 
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Rockets vs Warriors (Game 7) 
-      #EXTVLCOPT:http-origin=https://nbawebcast.app/
-      #EXTVLCOPT:http-referrer=https://nbawebcast.app//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://live.webcastserver.online/hdstream/embed/160.m3u8
-
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Cavaliers vs Pacers (Game 1 - Semifinals) Stream 2
-      #EXTVLCOPT:http-origin=https://ppv.wtf/
-      #EXTVLCOPT:http-referrer=https://ppv.wtf//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWQzYzYzYjM0ZjIyLTcyMDktZmQyNC1iMzU4LTgxODY0ODFk/master.m3u8?md5=uBDze5I97Oeaf_M4mWHTpg&expires=1746442569
-
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Rockets vs Warriors (Game 7) Stream 2
-      #EXTVLCOPT:http-origin=https://ppv.wtf/
-      #EXTVLCOPT:http-referrer=https://ppv.wtf//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=vE9sNG-MWgUzKB4phA71tg&expires=1746442602
+#EXTINF:-1 tvg-logo="" group-title="NBA",Rockets vs Warriors (Game 7) Stream 2
+#EXTVLCOPT:http-origin=https://ppv.wtf/
+#EXTVLCOPT:http-referrer=https://ppv.wtf//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=vE9sNG-MWgUzKB4phA71tg&expires=1746442602
