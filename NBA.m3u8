@@ -1,25 +1,13 @@
 #EXTM3U
 
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Celtics vs Knicks (Game 2 - Semifinals) 
+      #EXTINF:-1 tvg-logo="" group-title="NBA",Timberwolves vs Warriors (Game 2 - Semifinals) 
       #EXTVLCOPT:http-origin=https://nbawebcast.app/
       #EXTVLCOPT:http-referrer=https://nbawebcast.app//
       #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://live.webcastserver.online/hdstream/embed/138.m3u8
+      https://live.webcastserver.online/hdstream/embed/149.m3u8
 
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Thunder vs Nuggets (Game 2 - Semifinals) 
-      #EXTVLCOPT:http-origin=https://nbawebcast.app/
-      #EXTVLCOPT:http-referrer=https://nbawebcast.app//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://live.webcastserver.online/hdstream/embed/152.m3u8
-
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Celtics vs Knicks (Game 2 - Semifinals) Stream 2
+      #EXTINF:-1 tvg-logo="" group-title="NBA",Timberwolves vs Warriors (Game 2 - Semifinals) Stream 2
       #EXTVLCOPT:http-origin=https://ppv.wtf/
       #EXTVLCOPT:http-referrer=https://ppv.wtf//
       #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWIxOTc5N2ZiOWJhLTExZjktYTg3NC0xMGU3LWUzYzViZjM2/master.m3u8?md5=3pGlxS6hp2_ja54cYyQuyQ&expires=1746705958
-
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Thunder vs Nuggets (Game 2 - Semifinals) Stream 2
-      #EXTVLCOPT:http-origin=https://ppv.wtf/
-      #EXTVLCOPT:http-referrer=https://ppv.wtf//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWIxOTc5N2ZiOWJhLTExZjktYTg3NC0xMGU3LWUzYzViZjM2/master.m3u8?md5=3pGlxS6hp2_ja54cYyQuyQ&expires=1746705958
+      https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTZhMTNmYjM2NzE4LTU3NTktNjRhNC0yN2QyLWYwMDk2OGRk/master.m3u8?md5=1wv3qNq5AuKt-Luf_Dg7Ug&expires=1746791804
