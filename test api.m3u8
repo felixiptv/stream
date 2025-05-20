@@ -11,8 +11,11 @@ https://cors.jugorder.de/https://cd-stream-live.telenorcdn.net/cdgo/sm_skyshowti
 https://cors.jugorder.de/https://cd-stream-live.telenorcdn.net/cdgo/sm_skyshowtime1_live/sm_skyshowtime1_live.isml/playlist.mpd
 
 #EXTINF:-58 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="" group-title="",MTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1da2977f5fed3acb602cc2c8b57c41c1:09aaed2aeee31130fa8f869faff25ee5
 https://aka-live1-ott.izzigo.tv/4/out/u/dash/CLUB-MTV-SD/default.mpd
 
+#EXTINF:-58 tvg-logo="" group-logo="" group-title="",UNIVERSAL CINEMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd
